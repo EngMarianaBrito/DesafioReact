@@ -1,0 +1,23 @@
+1. Criar um projeto react
+2. Instalar o Tailwind nesse projeto que você criou
+3. Criar uma página sem usar o css, apenas usando a biblioteca tailwind
+4. Criar algumas rotas (Tipo quando a pessoa clica em botão no menu e ela vai pra aquela página)
+5. Entender como funciona o React Hook
+6. Implementar um componentes usando o Hook 
+
+
+Links que podem ser úteis
+
+Criando um projeto react
+https://videosdeti.com.br/criando-projetos-react-de-forma-rapida-com-create-react-app/
+
+Instalar Tailwind
+https://tailwindcss.com/docs/guides/create-react-app
+
+Modelos tailwind
+https://tailwindui.com/
+
+https://tailwindcomponents.com/
+
+Rotas React
+https://v5.reactrouter.com/web/guides/quick-start
